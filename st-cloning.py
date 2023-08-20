@@ -1,7 +1,7 @@
 #Fuck Your mom 
 #Your mom by Tanim x Samir
 #Admin Tanim-Samir(snigdho)
-from ST import main
+from T4S import main
 main()
 
 #TAKE LOVE 
